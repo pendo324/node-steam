@@ -4,6 +4,7 @@
   "description": "Lets you interface with Steam without running an actual Steam client",
   "author": "Nicholas <vvnicholas@gmail.com>",
   "main": "./lib/steam_client",
+  "prepare": "npm run install",
   "repository": {
     "type": "git",
     "url": "https://github.com/seishun/node-steam.git"
