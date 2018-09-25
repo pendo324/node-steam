@@ -13,7 +13,7 @@
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
     "steam-crypto": "^0.0",
-    "steam-resources": "https://github.com/pendo324/node-steam-resources#v1.0.0"
+    "steam-resources": "pendo324/node-steam-resources#1.0.0"
   },
   "bundledDependencies": [
     "steam-resources"
