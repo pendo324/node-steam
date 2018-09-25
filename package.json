@@ -1,5 +1,5 @@
 {
-  "name": "steam",
+  "name": "@pendo324/steam",
   "version": "1.4.0",
   "description": "Lets you interface with Steam without running an actual Steam client",
   "author": "Nicholas <vvnicholas@gmail.com>",
