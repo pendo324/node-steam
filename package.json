@@ -1,6 +1,6 @@
 {
   "name": "@pendo324/steam",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Lets you interface with Steam without running an actual Steam client",
   "author": "Nicholas <vvnicholas@gmail.com>",
   "main": "./lib/steam_client",
@@ -13,10 +13,10 @@
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
     "steam-crypto": "^0.0",
-    "steam-resources": "pendo324/node-steam-resources#master"
+    "@pendo324/steam-resources": "^1.1.0"
   },
   "bundledDependencies": [
-    "steam-resources"
+    "@pendo324/steam-resources"
   ],
   "engines": {
     "node": ">=4.1.1"
