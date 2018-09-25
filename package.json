@@ -1,7 +1,7 @@
 {
   "name": "@pendo324/steam",
   "version": "1.5.2",
-  "description: "Lets you interface with Steam without running an actual Steam client",
+  "description": "Lets you interface with Steam without running an actual Steam client",
   "author": "Nicholas <vvnicholas@gmail.com>",
   "main": "./lib/steam_client",
   "repository": {
